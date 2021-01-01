@@ -1,2 +1,2 @@
 # regext
-Golang Regex chaining library.
+Golang Regex chaining library, documentation and tests to be updated
